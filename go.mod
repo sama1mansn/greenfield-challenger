@@ -1,6 +1,6 @@
 module github.com/bnb-chain/greenfield-challenger
 
-go 1.20
+go 2.31
 
 require (
 	cosmossdk.io/math v1.0.1
